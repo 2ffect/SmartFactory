@@ -4,7 +4,9 @@
 <details>
 <summary> 📂 클릭하여 펼치기 </summary>
 
-2025.01.16. - docs [Git](/TIL/Git/Git.md) , [Git branch](/TIL/Git/GitBranch.md)
+2025.06.21. - [MCS](study/MCS.md)
+
+2025.06.22. - [Transfer Automation](study/Transfer_Automation.md)
 
 </details>
 ---

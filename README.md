@@ -11,6 +11,8 @@
 
 2025.06.24. - [AS/RS](study/ASRS.md)
 
+2025.06.27. - [Digital Twin](study/DigitalTwin.md)
+
 </details>
 
 ---
